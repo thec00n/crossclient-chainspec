@@ -5,6 +5,16 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Clients
+geth/*
+parity/*
+
+# keys
+keys/*
+
+# Password
+pw
+
 # Runtime data
 pids
 *.pid
