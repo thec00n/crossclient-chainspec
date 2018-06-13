@@ -10,11 +10,6 @@ yarn-error.log*
 geth/*
 parity/*
 
-# keys
-keys/*
-
-# Password
-pw
 
 # Runtime data
 pids
